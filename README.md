@@ -1,1 +1,2 @@
-simple hompage in flex css
+simple hompage in flexbox
+database added
