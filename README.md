@@ -1,12 +1,15 @@
 
+# Project Title
+Design to code  is a simple page created by html, css-flexbox. it also has database.
+
 
 ## Installation
 
 ### Requirements
 
-Requirements/technologies used
+Requirements include:
 * HTML
-* CSS-flexbox
+* CSS
 * PHP
 * SQL 
 *APACHE SERVER
